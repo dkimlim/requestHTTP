@@ -1,0 +1,22 @@
+{
+  "name": "request-http",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkimlim/w2d1.git"
+  },
+  "author": "Diane KL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkimlim/w2d1/issues"
+  },
+  "homepage": "https://github.com/dkimlim/w2d1#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
